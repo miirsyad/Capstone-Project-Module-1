@@ -1,9 +1,9 @@
 # Capstone-Project-Module-1
 Capstone Project Module 1 by Muhammad Irsyad
 
-Project untuk pemenuhan tugas Capstone Project Module 1 by Muhammad Irsyad
+Project untuk pemenuhan tugas Capstone Project Module 1 Purwadhika by Muhammad Irsyad
 
-Project ini mengandung aplikasi gudang.
+Project ini mengandung aplikasi inventaris.
 
 Data set disiapkan lokal
 
