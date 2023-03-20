@@ -5,12 +5,11 @@ Project untuk pemenuhan tugas Capstone Project Module 1 by Muhammad Irsyad
 
 Project ini mengandung aplikasi gudang.
 
-data set disiapkan lokal
+Data set disiapkan lokal
 
-aplikasi berisi menu
-1. tampilkan data
-2. menambah data
-3. merubah data
-4. menghapus data
-5. keluar dari aplikasi
-
+Aplikasi berisi menu
+1. Tampilkan data
+2. Menambah data
+3. Merubah data
+4. Menghapus data
+5. Keluar dari aplikasi
